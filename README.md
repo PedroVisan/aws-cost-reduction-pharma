@@ -33,4 +33,8 @@ A arquitetura proposta está documentada em:
 
 ---
 
+![Arquitetura AWS](images/arquitetura-aws.png)
+
+---
+
 Projeto desenvolvido por **Pedro Viana Santos**
